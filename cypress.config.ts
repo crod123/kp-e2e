@@ -14,6 +14,6 @@ export default defineConfig({
   screenshotsFolder: "tests/cypress/screenshots",
   videosFolder: "tests/cypress/videos",
   env: {
-    "host": "https://healthy.kaiserpermanente.org/vaccinemonitor/consent"
+    "host": "https://healthy.kaiserpermanente.org/vaccinemonitor/"
   },
 });
